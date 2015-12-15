@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+}
+.navbar-brand {
+	padding-top: 0;
+}
+.navbar {
+	padding-left: 10;
+}
+.navbar-header ul {
+	float: left;
+}
+#header {
+	background-image: url(images/blurred-background-2.jpg);
+}
+h3 {
+	color: #00CED1;
+}
+#divide {
+	float: center;
+}
+#contact {
+	background-image: url(images/bottom_blur.jpg);
+}
+#bottombar {
+	float: right;
+}
